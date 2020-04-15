@@ -5,7 +5,8 @@ Inspired from [OneDarkJekyll](https://github.com/mgyongyosi/OneDarkJekyll)
 
 Colors borrowed from Atom's [one-light-syntax](https://github.com/atom/atom/tree/master/packages/one-light-syntax) package
 
-Could be used as a template for related themes, to create new syntax stylesheet:
+Could be used as a template for related themes 
+# To create new syntax stylesheet:
 
 1. `npm install -g less less-plugin-clean-css`
 1. Clone this repo
